@@ -1,6 +1,8 @@
 # k9spud-overlay
 A Gentoo overlay for Raspberry Pi 4 software.
 
+NOTE: There is nothing actually here in this overlay yet. This is a Work In Progress.
+
 This project builds upon the work of Gentoo and the GenPi64 project.
 
 How to Use
